@@ -1,0 +1,19 @@
+.basic-class {
+  background-color: rgb(236, 111, 141);
+  font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+
+#firstId {
+  color: #00f;
+  font-size: 36px;
+}
+
+.basic-class.cooler {
+  font-size: 24px;
+}
+
+#secondId {
+  background-color: hsl(152, 80%, 65%);
+  font-size: 24px;
+  font-weight: bold;
+}
